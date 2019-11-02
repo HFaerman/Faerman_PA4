@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52bf0fc9-8de5-4c82-9014-84d2ceb9bdd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Faerman_PA3/Faerman_P2/Faerman_P2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Faerman_PA3/Faerman_p1/Faerman_p1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Faerman_p1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Faerman_p1/Faerman_P4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faerman_P2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Faerman_P2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Faerman_P2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Faerman_P2/com/company/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Faerman_p1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Faerman_p1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Faerman_p1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Faerman_p1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Faerman_p1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Faerman_p1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Faerman_p1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Faerman_p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Faerman_p1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Faerman_p1/Faerman_p1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Faerman_p1/out/production/Faerman_p1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Faerman_p1/src/com/company/Main.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T1sRu0f6YuVMFtLgw5uMxhnmny" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DuplicateCounter$Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Faerman_p2.DuplicateCounter$Application" />
+      <module name="Faerman_p2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Faerman_p2.DuplicateCounter$Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52bf0fc9-8de5-4c82-9014-84d2ceb9bdd1" name="Default Changelist" comment="" />
+      <created>1572638930461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572638930461</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
